@@ -8,6 +8,12 @@ This project implements and compares various Machine Learning models (supervised
 
 ---
 
+## Demo
+
+Try the live app here: [Network Anomaly Detection on Streamlit]([https://seu-username.streamlit.app](https://network-traffic-anomaly-detection-with-machine-learning-h2e5n5.streamlit.app/))
+
+---
+
 ## Objectives
 
 - Load and preprocess a realistic network traffic dataset
@@ -252,6 +258,7 @@ streamlit run app.py
 
 ## Ethics and Privacy
 This project uses publicly available network traffic data (CICIDS 2017) for research and educational purposes. The dataset contains no personally identifiable information. Intrusion detection techniques should be applied responsibly and in compliance with relevant privacy and cybersecurity regulations.
+
 
 
 
