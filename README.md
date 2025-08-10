@@ -10,7 +10,7 @@ This project implements and compares various Machine Learning models (supervised
 
 ## Demo
 
-Try the live app here: [Network Anomaly Detection on Streamlit]([https://seu-username.streamlit.app](https://network-traffic-anomaly-detection-with-machine-learning-h2e5n5.streamlit.app/))
+Try the live app here: [Network Anomaly Detection on Streamlit](https://network-traffic-anomaly-detection-with-machine-learning-h2e5n5.streamlit.app/)
 
 ---
 
